@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SellNbuy App
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Kaveesh Heshan
+Implementation-Vendor-Id: com.paf.rest
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/sellNbuy
+Created-By: Maven Integration for Eclipse
+
