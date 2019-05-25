@@ -3,7 +3,7 @@ IT17143028 Heshan E.K.P.
 
 
 1. Clone the project 
-git clone "https://github.com/KshanHeshan/PAF-SellNBuy-Project.git"
+https://github.com/KshanHeshan/PAF-Online-Exam.git
 2. Create a database using the name in the application.properties.
 3. Run the Application file in the Project AS Spring boot App.
 4. Run the postman after starting the application.
